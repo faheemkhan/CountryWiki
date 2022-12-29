@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CountryWiki/static/css/main.a4300e93.css",
+    "main.js": "/CountryWiki/static/js/main.209c356f.js",
+    "static/js/787.98569229.chunk.js": "/CountryWiki/static/js/787.98569229.chunk.js",
+    "index.html": "/CountryWiki/index.html",
+    "main.a4300e93.css.map": "/CountryWiki/static/css/main.a4300e93.css.map",
+    "main.209c356f.js.map": "/CountryWiki/static/js/main.209c356f.js.map",
+    "787.98569229.chunk.js.map": "/CountryWiki/static/js/787.98569229.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a4300e93.css",
+    "static/js/main.209c356f.js"
+  ]
+}
